@@ -16,7 +16,7 @@ var num:number = 21.8;  // in javascript there is no float datatype we can write
 
 var isLogic = false;  // boolean
 
-var data = "";   // null
+var data1 = "";   // null
 
 var a:undefined = undefined  // undefined
 

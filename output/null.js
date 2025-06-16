@@ -1,3 +1,4 @@
+"use strict";
 // var value:null=null;
 var value = null;
 value = 'khushi';

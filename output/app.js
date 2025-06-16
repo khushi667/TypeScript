@@ -1,3 +1,4 @@
+"use strict";
 var userName = 'khushi';
 var age = 21;
 var college = 'Agrawal College';
@@ -8,7 +9,7 @@ console.log(college);
 var num = 21; //number
 var num = 21.8; // in javascript there is no float datatype we can write it in number
 var isLogic = false; // boolean
-var data = ""; // null
+var data1 = ""; // null
 var a = undefined; // undefined
 // symbol is special type of Primitivedata type who generate unique memory address.
 // const sym1: symbol = Symbol();
